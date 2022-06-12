@@ -1,0 +1,18 @@
+What is Markdown?
+- Lightweight markup language with a plain text formatting syntax.
+- Can be converted into HTML/XHTML and other formats.
+- It's main purpose is readability and ease of use.
+
+What is it used for?
+- README files (GitHub, etc...).
+- Forum and Blog Posts.
+- Used in many Static Site Generators.
+
+What can you format?
+- Headings
+- Lists
+- Emphasis
+- Links
+- Blocks of code
+- Images
+- etc...
